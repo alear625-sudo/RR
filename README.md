@@ -19,7 +19,7 @@
   </style>
 </head>
 <body>
-  <img src="logo.png.jpg" alt="Logo R & R" style="width:120px; margin-bottom:10px;">
+                                                                                                                         <img src="logo.png.jpg" alt="Logo R & R" style="width:120px; margin-bottom:10px;">
 <br>
   <header>
     <strong>R & R </strong><br>
