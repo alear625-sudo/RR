@@ -76,8 +76,5 @@
 </section><footer>
   <p>R&R Fabricação e Montagem de Móveis Planejados &copy; 2025</p>
 </footer></body>
-</html>
     © 2025 R & R — Todos os direitos reservados.
-  </footer>
-</body>
-</html>
+ 
