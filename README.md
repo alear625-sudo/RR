@@ -22,6 +22,10 @@
   </style>
 </head>
 <body><header>
+  <img src="Logo Rer.png" alt="Logo R&R" style="max-width:150px; display:block; margin:0 auto 20px;">
+<img src="Logo Rer.png" alt="Logotipo R&R" style="width:150px; margin-bottom:15px;">
+<img src="Logo Rer.png" alt="Logotipo R&R" style="width:150px; margin-bottom:15px;">
+<img src="Logo Rer.png" alt="Logotipo R&R">
   <h1>R&R Fabricação e Montagem de Móveis Planejados</h1>
   <p>Qualidade, precisão e confiança no seu projeto</p>
 </header><nav>
@@ -57,10 +61,22 @@
   </div>
 </section><section id="portfolio">
   <h2>Portfólio</h2>
-  <div class="portfolio">
-    <div class="portfolio-item">Projeto 1</div>
-    <div class="portfolio-item">Projeto 2</div>
-    <div class="portfolio-item">Projeto 3</div>
+<div class="portfolio">
+<div class="portfolio-item"><img src="projeto 1 (2).jpeg" alt="Projeto 1" style="width:100%; border-radius:8px;"></div>
+<div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;"></div>
+<div class="portfolio-item"><img src="projeto 1 (4).jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;"></div>
+</div>
+<div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;"></div>
+<div class="portfolio-item"><img src="projeto 1 (4).jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;"></div>
+</div>
+<div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;"></div>
+<div class="portfolio-item"><img src="projeto 1 (4).jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;"></div>
+</div>
+<div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Balcão Banheiro"></div>
+<div class="portfolio-item"><img src="projeto 1 (4).jpeg" alt="Rack Azul"></div>
+</div>
+<div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Projeto 2"></div>
+<div class="portfolio-item"><img src="projeto 1 (4).jpeg" alt="Projeto 3"></div>
   </div>
 </section><section id="contato" class="contact">
   <h2>Contato</h2>
