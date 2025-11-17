@@ -61,7 +61,7 @@
 <div class="portfolio">
 <div class="portfolio-item"><img src="projeto 1 (2).jpeg" alt="Projeto 1" style="width:100%; border-radius:8px;"></div>
 <div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;"></div>
-<div class="portfolio-item"><img src="projeto 1 (4).jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;"></div>
+<div class="portfolio-item"><img src="projeto 1 (5).jpeg.jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;"></div>
 </div>
 <div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;"></div>
 <div class="portfolio-item"><img src="projeto 1 (4).jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;"></div>
