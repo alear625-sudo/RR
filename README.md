@@ -21,7 +21,6 @@
     footer { background: #333; color: white; padding: 20px; text-align: center; }
   </style>
 
-<body><header>
   <img src="Logo Rer.png" alt="Logo R&R" style="max-width:150px; display:block; margin:0 auto 20px;">
   <h1>R&R Fabricação e Montagem de Móveis Planejados</h1>
   <p>Qualidade, precisão e confiança no seu projeto</p>
@@ -63,8 +62,7 @@
 <div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;">
 <div class="portfolio-item"><img src="projeto 1 (5).jpeg.jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;">
 <div class="portfolio-item"><img src="Projeto 1.jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;">
-
-</section><section id="contato" class="contact">
+<section id="contato" class="contact">
   <h2>Contato</h2>
   <p>Telefone / WhatsApp: <a href="https://wa.me/11915295630">+55 (11) 11915295630</a></p>
   <p>Ou envie uma mensagem:</p>
@@ -77,7 +75,5 @@
 </section><footer>
   <p>R&R Fabricação e Montagem de Móveis Planejados &copy; 2025</p>
 
-  <p>R&R Fabricação e Montagem de Móveis Planejados &copy; 2025</p>
-</footer></body>
     © 2025 R & R — Todos os direitos reservados.
  
