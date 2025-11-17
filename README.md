@@ -1,5 +1,5 @@
-<!DOCTYPE html><html lang="pt-BR">
-<head>
+
+
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>R&R Móveis Planejados</title>
@@ -59,22 +59,22 @@
 </section><section id="portfolio">
   <h2>Portfólio</h2>
 <div class="portfolio">
-<div class="portfolio-item"><img src="projeto 1 (2).jpeg" alt="Projeto 1" style="width:100%; border-radius:8px;"></div>
-<div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;"></div>
-<div class="portfolio-item"><img src="projeto 1 (5).jpeg.jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;"></div>
-</div>
-<div class="portfolio-item"><img src="Projeto 1.jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;"></div>
-<div class="portfolio-item"><img src="projeto 1 (4).jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;"></div>
-</div>
-<div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;"></div>
-<div class="portfolio-item"><img src="projeto 1 (4).jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;"></div>
-</div>
+<div class="portfolio-item"><img src="projeto 1 (2).jpeg" alt="Projeto 1" style="width:100%; border-radius:8px;">
+<div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;">
+<div class="portfolio-item"><img src="projeto 1 (5).jpeg.jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;">
+
+<div class="portfolio-item"><img src="Projeto 1.jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;">
+<div class="portfolio-item"><img src="projeto 1 (4).jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;">
+
+<div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;">
+<div class="portfolio-item"><img src="projeto 1 (4).jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;">
+
 <div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Balcão Banheiro"></div>
 <div class="portfolio-item"><img src="projeto 1 (4).jpeg" alt="Rack Azul"></div>
-</div>
+
 <div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Projeto 2"></div>
 <div class="portfolio-item"><img src="projeto 1 (4).jpeg" alt="Projeto 3"></div>
-  </div>
+
 </section><section id="contato" class="contact">
   <h2>Contato</h2>
   <p>Telefone / WhatsApp: <a href="https://wa.me/5511991692544">+55 (11) 99169-2544</a></p>
@@ -87,8 +87,7 @@
   </form>
 </section><footer>
   <p>R&R Fabricação e Montagem de Móveis Planejados &copy; 2025</p>
-</footer></body>
-</html>
+
   <p>R&R Fabricação e Montagem de Móveis Planejados &copy; 2025</p>
 </footer></body>
     © 2025 R & R — Todos os direitos reservados.
