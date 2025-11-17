@@ -1,5 +1,5 @@
-
- 
+<!DOCTYPE html><html lang="pt-BR">
+<head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>R&R Móveis Planejados</title>
@@ -20,8 +20,9 @@
     .contact a { color: #007BFF; font-size: 20px; text-decoration: none; }
     footer { background: #333; color: white; padding: 20px; text-align: center; }
   </style>
-
-  <img src="Logo Rer.png" alt="Logo R&R" style="max-width:150px; display:block; margin:0 auto 20px;">
+</head>
+<body><header>
+ <img src="Logo Rer.png" alt="Logo R&R" style="max-width:150px; display:block; margin:0 auto 20px;">
   <h1>R&R Fabricação e Montagem de Móveis Planejados</h1>
   <p>Qualidade, precisão e confiança no seu projeto</p>
 </header><nav>
@@ -56,15 +57,19 @@
     </div>
   </div>
 </section><section id="portfolio">
+  
   <h2>Portfólio</h2>
 <div class="portfolio">
 <div class="portfolio-item"><img src="projeto 1 (2).jpeg" alt="Projeto 1" style="width:100%; border-radius:8px;">
 <div class="portfolio-item"><img src="projeto 1 (3).jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;">
 <div class="portfolio-item"><img src="projeto 1 (5).jpeg.jpeg" alt="Projeto 3" style="width:100%; border-radius:8px;">
 <div class="portfolio-item"><img src="Projeto 1.jpeg" alt="Projeto 2" style="width:100%; border-radius:8px;">
-<section id="contato" class="contact">
+    <div class="portfolio-item">Projeto 2</div>
+    <div class="portfolio-item">Projeto 3</div>
+  </div>
+</section><section id="contato" class="contact">
   <h2>Contato</h2>
-  <p>Telefone / WhatsApp: <a href="https://wa.me/11915295630">+55 (11) 11915295630</a></p>
+  <p>Telefone / WhatsApp: <a href="https://wa.me/5511991692544">+55 (11) 99169-2544</a></p>
   <p>Ou envie uma mensagem:</p>
   <form>
     <input type="text" placeholder="Seu nome" required><br><br>
@@ -73,6 +78,9 @@
     <button type="submit">Enviar</button>
   </form>
 </section><footer>
+  <p>R&R Fabricação e Montagem de Móveis Planejados &copy; 2025</p>
+</footer></body>
+</html>
   <p>R&R Fabricação e Montagem de Móveis Planejados &copy; 2025</p>
 
     © 2025 R & R — Todos os direitos reservados.
