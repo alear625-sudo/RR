@@ -23,9 +23,6 @@
 </head>
 <body><header>
   <img src="Logo Rer.png" alt="Logo R&R" style="max-width:150px; display:block; margin:0 auto 20px;">
-<img src="Logo Rer.png" alt="Logotipo R&R" style="width:150px; margin-bottom:15px;">
-<img src="Logo Rer.png" alt="Logotipo R&R" style="width:150px; margin-bottom:15px;">
-<img src="Logo Rer.png" alt="Logotipo R&R">
   <h1>R&R Fabricação e Montagem de Móveis Planejados</h1>
   <p>Qualidade, precisão e confiança no seu projeto</p>
 </header><nav>
