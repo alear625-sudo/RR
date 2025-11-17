@@ -67,9 +67,9 @@
     <div class="portfolio-item">Projeto 2</div>
     <div class="portfolio-item">Projeto 3</div>
   </div>
-</section> id="contato" class="contact">
+
   <h2>Contato</h2>
-  <p>Telefone / WhatsApp: <a href="https://wa.me/5511991692544">+55 (11) 99169-2544</a></p>
+  <p>Telefone / WhatsApp: <a href="https://wa.me/5511915295630">+55 (11) 915295630</a></p>
   <p>Ou envie uma mensagem:</p>
   <form>
     <input type="text" placeholder="Seu nome" required><br><br>
@@ -77,7 +77,7 @@
     <textarea placeholder="Sua mensagem" rows="4" required></textarea><br><br>
     <button type="submit">Enviar</button>
   </form>
-</section><footer>
+<footer>
   <p>R&R Fabricação e Montagem de Móveis Planejados &copy; 2025</p>
 </footer>
 
