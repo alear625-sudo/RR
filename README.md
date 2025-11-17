@@ -1,5 +1,5 @@
 
-<img src="img/logo.png" alt="LogoRer" style="width:150px;">
+<img src="img/Logotipo Rer.png" alt="Logotipo Rer.png" style="width:150px;">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
