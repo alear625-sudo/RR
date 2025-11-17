@@ -1,5 +1,5 @@
 
-
+ 
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>R&R Móveis Planejados</title>
@@ -20,7 +20,7 @@
     .contact a { color: #007BFF; font-size: 20px; text-decoration: none; }
     footer { background: #333; color: white; padding: 20px; text-align: center; }
   </style>
-</head>
+
 <body><header>
   <img src="Logo Rer.png" alt="Logo R&R" style="max-width:150px; display:block; margin:0 auto 20px;">
   <h1>R&R Fabricação e Montagem de Móveis Planejados</h1>
