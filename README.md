@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="pt-BR">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -67,7 +67,7 @@
     <div class="portfolio-item">Projeto 2</div>
     <div class="portfolio-item">Projeto 3</div>
   </div>
-</section><section id="contato" class="contact">
+</section> id="contato" class="contact">
   <h2>Contato</h2>
   <p>Telefone / WhatsApp: <a href="https://wa.me/5511991692544">+55 (11) 99169-2544</a></p>
   <p>Ou envie uma mensagem:</p>
