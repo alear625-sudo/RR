@@ -1,5 +1,5 @@
 
-<img src="img/logo.png" alt="Logo R e R Marcenaria" style="width:150px;">
+<img src="img/logo.png" alt="Logo Rer" style="width:150px;">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
