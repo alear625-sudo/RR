@@ -65,7 +65,7 @@
   </div>
 </section><section id="contato" class="contact">
   <h2>Contato</h2>
-  <p>Telefone / WhatsApp: <a href="https://wa.me/5511991602544">+55 (11) 99169-2544</a></p>
+  <p>Telefone / WhatsApp: <a href="https://wa.me/5511991602544">+55 (11) 99160-2544</a></p>
   <p>Ou envie uma mensagem:</p>
   <form>
     <input type="text" placeholder="Seu nome" required><br><br>
